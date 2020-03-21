@@ -1,2 +1,2 @@
-# BlinkyPIC24
+# Blinky PIC24
 Basic blinky program.
